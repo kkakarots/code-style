@@ -13,7 +13,9 @@ docs: 仅修改文档, 比如README, CHANGELOG, CONTRIBUTE...
 
 chore: 改变构建流程, 新增依赖库, 工具等 
 
-feat: 新增feature fix: 修复bug 
+feat: 新增feature 
+
+fix: 修复bug 
 
 merge: 合并分支 perf: 优化代码, 比如提升性能体验 
 
